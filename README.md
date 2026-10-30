@@ -1,4 +1,4 @@
-# Lucky Rooms - Phase 4
+# Lucky Rooms
 
 Two FastAPI services and a playable React/Vite/TypeScript multiplayer game in
 the existing BoxSelectGame repository. Choose a demo player, buy mock tickets,
